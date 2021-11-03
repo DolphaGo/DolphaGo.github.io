@@ -1,19 +1,19 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Require('develop')
+description: Hello, World!
+meta_description: 'Serverside Engineer'
 
 markdown: kramdown
 highlighter: rouge
-logo: false
+logo: true
 paginate: 15
-baseurl: ""
-domain_name: "https://dolphago.github.io"
-google_analytics: "UA-XXXXXXXX-X"
+baseurl: ''
+domain_name: 'https://dolphago.github.io'
+google_analytics: 'UA-XXXXXXXX-X'
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url: ""
-author: "Your Name"
+url: ''
+author: 'DolphaGo'
 
 # Disqus config
-disqus-shortname: ""
+disqus-shortname: ''
