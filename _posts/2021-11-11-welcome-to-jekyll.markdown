@@ -61,3 +61,6 @@ public String addItemV3(@ModelAttribute Item item, BindingResult bindingResult, 
     return "redirect:/validation/v2/items/{itemId}";
 }
 ```
+
+이미지 테스트
+![](../assets/images/2021-11-11-03-45-06.png)
