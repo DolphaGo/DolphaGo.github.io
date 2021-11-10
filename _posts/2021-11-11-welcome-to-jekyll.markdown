@@ -62,5 +62,5 @@ public String addItemV3(@ModelAttribute Item item, BindingResult bindingResult, 
 }
 ```
 
-이미지 테스트
+이미지 테스트 -> 굳긷님께 물어봐야지 =_=
 ![](../assets/images/2021-11-11-03-45-06.png)
